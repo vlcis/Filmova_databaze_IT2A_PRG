@@ -1,2 +1,7 @@
 # Filmova_databaze_IT2A_PRG
-Uživatelské prostředí pro propojení s databází v C# WPF. 2. ročník SŠTE Brno IT Programování.
+## 9/3/2026
+Dnes se mi podařilo vytvořit:
+<ul>
+  <li>Kompletní XAML</li>
+  <li>Třídu Movie</li>
+</ul>
