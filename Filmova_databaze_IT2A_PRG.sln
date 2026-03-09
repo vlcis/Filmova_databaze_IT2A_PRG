@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filmova_databaze_IT2A_PRG", "09.03.2026\Filmova_databaze_IT2A_PRG.csproj", "{1805177A-4630-47A9-A966-4FB4FD9788A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1805177A-4630-47A9-A966-4FB4FD9788A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1805177A-4630-47A9-A966-4FB4FD9788A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1805177A-4630-47A9-A966-4FB4FD9788A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1805177A-4630-47A9-A966-4FB4FD9788A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {045C60D1-F855-4DC1-8918-B2D0E9B66F1A}
+	EndGlobalSection
+EndGlobal
