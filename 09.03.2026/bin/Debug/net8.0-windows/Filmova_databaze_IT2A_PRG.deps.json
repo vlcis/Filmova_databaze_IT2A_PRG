@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Filmova_databaze_IT2A_PRG/1.0.0": {
+        "runtime": {
+          "Filmova_databaze_IT2A_PRG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Filmova_databaze_IT2A_PRG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

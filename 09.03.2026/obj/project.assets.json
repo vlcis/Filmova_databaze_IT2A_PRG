@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\programování\\C#\\09.03.2026\\09.03.2026\\Filmova_databaze_IT2A_PRG.csproj",
+      "projectUniqueName": "C:\\Users\\61832vlcek\\Desktop\\Nová složka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\Filmova_databaze_IT2A_PRG.csproj",
       "projectName": "Filmova_databaze_IT2A_PRG",
-      "projectPath": "H:\\programování\\C#\\09.03.2026\\09.03.2026\\Filmova_databaze_IT2A_PRG.csproj",
+      "projectPath": "C:\\Users\\61832vlcek\\Desktop\\Nová složka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\Filmova_databaze_IT2A_PRG.csproj",
       "packagesPath": "C:\\Users\\61832vlcek\\.nuget\\packages\\",
-      "outputPath": "H:\\programování\\C#\\09.03.2026\\09.03.2026\\obj\\",
+      "outputPath": "C:\\Users\\61832vlcek\\Desktop\\Nová složka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Filmova_databaze_IT2A_PRG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+203b5a8fe5e5c9d0948430e04f6abb57b7c25460")]
 [assembly: System.Reflection.AssemblyProductAttribute("Filmova_databaze_IT2A_PRG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Filmova_databaze_IT2A_PRG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
