@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\61832vlcek\\Desktop\\Nov\u00E1 slo\u017Eka\\Filmova_databaze_IT2A_PRG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1805177A-4630-47A9-A966-4FB4FD9788A3}|09.03.2026\\Filmova_databaze_IT2A_PRG.csproj|c:\\users\\61832vlcek\\desktop\\nov\u00E1 slo\u017Eka\\filmova_databaze_it2a_prg\\09.03.2026\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1805177A-4630-47A9-A966-4FB4FD9788A3}|09.03.2026\\Filmova_databaze_IT2A_PRG.csproj|solutionrelative:09.03.2026\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1805177A-4630-47A9-A966-4FB4FD9788A3}|09.03.2026\\Filmova_databaze_IT2A_PRG.csproj|c:\\users\\61832vlcek\\desktop\\nov\u00E1 slo\u017Eka\\filmova_databaze_it2a_prg\\09.03.2026\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1805177A-4630-47A9-A966-4FB4FD9788A3}|09.03.2026\\Filmova_databaze_IT2A_PRG.csproj|solutionrelative:09.03.2026\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1805177A-4630-47A9-A966-4FB4FD9788A3}|09.03.2026\\Filmova_databaze_IT2A_PRG.csproj|c:\\users\\61832vlcek\\desktop\\nov\u00E1 slo\u017Eka\\filmova_databaze_it2a_prg\\09.03.2026\\moviewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1805177A-4630-47A9-A966-4FB4FD9788A3}|09.03.2026\\Filmova_databaze_IT2A_PRG.csproj|solutionrelative:09.03.2026\\moviewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1805177A-4630-47A9-A966-4FB4FD9788A3}|09.03.2026\\Filmova_databaze_IT2A_PRG.csproj|c:\\users\\61832vlcek\\desktop\\nov\u00E1 slo\u017Eka\\filmova_databaze_it2a_prg\\09.03.2026\\moviewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1805177A-4630-47A9-A966-4FB4FD9788A3}|09.03.2026\\Filmova_databaze_IT2A_PRG.csproj|solutionrelative:09.03.2026\\moviewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1805177A-4630-47A9-A966-4FB4FD9788A3}|09.03.2026\\Filmova_databaze_IT2A_PRG.csproj|c:\\users\\61832vlcek\\desktop\\nov\u00E1 slo\u017Eka\\filmova_databaze_it2a_prg\\09.03.2026\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1805177A-4630-47A9-A966-4FB4FD9788A3}|09.03.2026\\Filmova_databaze_IT2A_PRG.csproj|solutionrelative:09.03.2026\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1805177A-4630-47A9-A966-4FB4FD9788A3}|09.03.2026\\Filmova_databaze_IT2A_PRG.csproj|c:\\users\\61832vlcek\\desktop\\nov\u00E1 slo\u017Eka\\filmova_databaze_it2a_prg\\09.03.2026\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,24 +34,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "MovieWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\61832vlcek\\Desktop\\Nov\u00E1 slo\u017Eka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\MovieWindow.xaml.cs",
+              "RelativeDocumentMoniker": "09.03.2026\\MovieWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\61832vlcek\\Desktop\\Nov\u00E1 slo\u017Eka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\MovieWindow.xaml.cs",
+              "RelativeToolTip": "09.03.2026\\MovieWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:12:31.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\61832vlcek\\Desktop\\Nov\u00E1 slo\u017Eka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\MovieWindow.xaml",
+              "RelativeDocumentMoniker": "09.03.2026\\MovieWindow.xaml",
+              "ToolTip": "C:\\Users\\61832vlcek\\Desktop\\Nov\u00E1 slo\u017Eka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\MovieWindow.xaml",
+              "RelativeToolTip": "09.03.2026\\MovieWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-20T12:11:07.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\61832vlcek\\Desktop\\Nov\u00E1 slo\u017Eka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "09.03.2026\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\61832vlcek\\Desktop\\Nov\u00E1 slo\u017Eka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "09.03.2026\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\61832vlcek\\Desktop\\Nov\u00E1 slo\u017Eka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\MainWindow.xaml.cs",
+              "RelativeToolTip": "09.03.2026\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwFMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T11:55:49.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\61832vlcek\\Desktop\\Nov\u00E1 slo\u017Eka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "09.03.2026\\AssemblyInfo.cs",
@@ -56,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\Users\\61832vlcek\\Desktop\\Nov\u00E1 slo\u017Eka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\Movie.cs",
               "RelativeDocumentMoniker": "09.03.2026\\Movie.cs",
@@ -64,12 +97,11 @@
               "RelativeToolTip": "09.03.2026\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T11:55:27.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T11:55:27.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\61832vlcek\\Desktop\\Nov\u00E1 slo\u017Eka\\Filmova_databaze_IT2A_PRG\\09.03.2026\\MainWindow.xaml",
               "RelativeDocumentMoniker": "09.03.2026\\MainWindow.xaml",

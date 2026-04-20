@@ -50,5 +50,37 @@ namespace _09._03._2026
                 Movies.Remove(selected);
             }
         }
+
+        private void AddMovie_Click(object sender, RoutedEventArgs e)
+        {
+            var window = new MovieWindow();
+
+            if (window.ShowDialog() == true)
+            {
+                Movies.Add(window.Movie);
+            }
+        }
+
+        private void EditMovie_Click(object sender, RoutedEventArgs e)
+        {
+            if (MoviesGrid.SelectedItem is Movie selected)
+            {
+                var window = new MovieWindow(selected);
+
+                if (window.ShowDialog() == true)
+                {
+                    // přepíšeme hodnoty
+                    selected.Title = window.Movie.Title;
+                    selected.Year = window.Movie.Year;
+                    selected.Genre = window.Movie.Genre;
+                    selected.Length = window.Movie.Length;
+                    selected.Imdb = window.Movie.Imdb;
+                    selected.Csfd = window.Movie.Csfd;
+                    selected.Rotten = window.Movie.Rotten;
+
+                    MoviesGrid.Items.Refresh();
+                }
+            }
+        }
     }
 }

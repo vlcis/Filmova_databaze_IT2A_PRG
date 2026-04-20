@@ -18,3 +18,5 @@ C:\Users\61832vlcek\Desktop\Nová složka\Filmova_databaze_IT2A_PRG\09.03.2026\o
 C:\Users\61832vlcek\Desktop\Nová složka\Filmova_databaze_IT2A_PRG\09.03.2026\obj\Debug\net8.0-windows\Filmova_databaze_IT2A_PRG.pdb
 C:\Users\61832vlcek\Desktop\Nová složka\Filmova_databaze_IT2A_PRG\09.03.2026\obj\Debug\net8.0-windows\Filmova_databaze_IT2A_PRG.genruntimeconfig.cache
 C:\Users\61832vlcek\Desktop\Nová složka\Filmova_databaze_IT2A_PRG\09.03.2026\obj\Debug\net8.0-windows\ref\Filmova_databaze_IT2A_PRG.dll
+C:\Users\61832vlcek\Desktop\Nová složka\Filmova_databaze_IT2A_PRG\09.03.2026\obj\Debug\net8.0-windows\MovieWindow.baml
+C:\Users\61832vlcek\Desktop\Nová složka\Filmova_databaze_IT2A_PRG\09.03.2026\obj\Debug\net8.0-windows\MovieWindow.g.cs
